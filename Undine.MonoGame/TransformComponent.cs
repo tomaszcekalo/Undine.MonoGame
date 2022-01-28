@@ -9,5 +9,8 @@ namespace Undine.MonoGame
     {
         public Vector2 Position;
         public float Rotation;
+        public Vector2 Scale;
+        public Vector2 Origin;
+
     }
 }
