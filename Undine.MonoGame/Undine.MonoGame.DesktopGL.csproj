@@ -8,7 +8,7 @@
     <RepositoryUrl>https://github.com/tomaszcekalo/Undine.MonoGame</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://github.com/tomaszcekalo/Undine.MonoGame</PackageProjectUrl>
-    <Version>0.0.7</Version>
+    <Version>0.0.8</Version>
     <PackageTags>ecs, reactive, patterns, ioc, view-separation, xna, game-development, unity, monogame, gamedev, games, ecs, c-sharp, entity-component, entity-framework, entity, entity-component-system, tdd, test-driven-development, performance, design-pattern, paradigmshift, paradigm, design-patterns, game, game-engine, scripts, scripting, data-driven, data, driven, min, minECS, mono, monogame, undine</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
@@ -22,6 +22,6 @@
     <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303">
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Undine.Core" Version="0.0.0.6" />
+    <PackageReference Include="Undine.Core" Version="0.0.0.8" />
   </ItemGroup>
 </Project>
